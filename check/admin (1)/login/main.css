@@ -1,0 +1,98 @@
+html{
+	background-color: #BCDBCD;
+	text-align:center;
+}
+
+h1{
+	display:inline-block;
+}
+
+.link1{
+	color:white;
+	background-color: #1253B2;
+	padding:10px;
+	border:2px solid #1253B2;
+	display:inline-block;
+	text-decoration:none;
+	width: 400px;
+}
+.link1:hover{
+	color:white;
+	background-color:#1253B2;
+	border:2px solid #FEFEFE;
+	text-decoration:none;
+	display:inline-block;
+	padding:10px;
+	width: 400px;
+}
+
+.link2{
+	color:white;
+	background-color: #CC2525;
+	padding:10px;
+	border:2px solid #CC2525;
+	display:inline-block;
+	text-decoration:none;
+	width: 400px;
+}
+.link2:hover{
+	color:white;
+	background-color:#CC2525;
+	border:2px solid #FEFEFE;
+	text-decoration:none;
+	display:inline-block;
+	padding:10px;
+	width: 400px;
+}
+
+.link3{
+	color:white;
+	background-color:#FF8E00;
+	border:2px solid #FF8E00;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px;
+	width: 400px;
+}
+.link3:hover{
+	color:white;
+	background-color:#FF8E00;
+	border:2px solid #FEFEFE;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px;
+	width: 400px;
+}
+
+.link4{
+	color:white;
+	background-color:#3A933C;
+	border:1px solid #3A933C;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px;
+	width: 400px;
+}
+.link4:hover{
+	color:white;
+	background-color:#3A933C;
+	border:2px solid #FEFEFE;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px;
+	width: 400px;
+}
+
+.event1{
+	color: #1253B2;
+}
+.event2{
+	color: #CC2525;
+}
+.event3{
+	color: #FF8E00;
+}
+.event4{
+	color: #3A933C;
+}
+
